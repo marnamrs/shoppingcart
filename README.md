@@ -10,5 +10,5 @@ Built using:
 credits:
 <ul>
   <li>icons by <a href="https://www.flaticon.com/authors/freepik">Freepik @ Flaticon</a> </li>
-  <li>product placeholders from <a href="">API</a></li>
+  <li>product placeholders from <a href="https://raw.githubusercontent.com/ironhack-jc/mid-term-api/main/cart">API</a></li>
 </ul>
